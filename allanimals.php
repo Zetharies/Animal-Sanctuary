@@ -153,7 +153,7 @@ function myFunction(){
         foreach ($rows as $row) {
             if ($row["gender"] == "m" || $row["gender"] == "male") {
                 $gender = "Male";
-            }else if ($row["gender"] == "f" || $row["gender"] == "fenale") {
+            }else if ($row["gender"] == "f" || $row["gender"] == "female") {
                 $gender = "Female";
             } else if ($row["gender"] == "o" || $row["gender"] == "other") {
                 $gender = "Unknown";
@@ -206,7 +206,7 @@ else if(x == "sort_available"){
   foreach ($rows as $row) {
       if ($row["gender"] == "m" || $row["gender"] == "male") {
           $gender = "Male";
-      }else if ($row["gender"] == "f" || $row["gender"] == "fenale") {
+      }else if ($row["gender"] == "f" || $row["gender"] == "female") {
           $gender = "Female";
       } else if ($row["gender"] == "o" || $row["gender"] == "other") {
           $gender = "Unknown";
@@ -259,7 +259,7 @@ else if(x == "sort_unavailable"){
   foreach ($rows as $row) {
       if ($row["gender"] == "m" || $row["gender"] == "male") {
           $gender = "Male";
-      }else if ($row["gender"] == "f" || $row["gender"] == "fenale") {
+      }else if ($row["gender"] == "f" || $row["gender"] == "female") {
           $gender = "Female";
       } else if ($row["gender"] == "o" || $row["gender"] == "other") {
           $gender = "Unknown";
