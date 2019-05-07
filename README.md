@@ -1,6 +1,11 @@
 # Animal-Sanctuary
 Aston University coursework
 
+# Public
+- Made the repo public, to the next year students looking at this repo, I know what you're up to ^_^
+- Removed structure for directories before uploading to github
+- Website can be accessed here: http://astonanimalsanctuary.ml/
+
 ## Login page
 ![login](https://user-images.githubusercontent.com/44272102/56981405-bcd68880-6b76-11e9-9322-a20b5bf6797f.png)
 
